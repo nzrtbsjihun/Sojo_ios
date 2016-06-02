@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "b7543b52-44f8-5c41-b9b6-9e4899140be2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "b7543b52-44f8-5c41-b9b6-9e4899140be2" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "b7543b52-44f8-5c41-b9b6-9e4899140be2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6B329277-C1AB-464A-BE7B-D623CD5282F8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "b7543b52-44f8-5c41-b9b6-9e4899140be2" : "Bcs_Workspace\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Sojo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Sojo\/Sojo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/byullbam.iptime.org\/svn\/Kama_ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b7543b52-44f8-5c41-b9b6-9e4899140be2"
+    }
+  ]
+}
